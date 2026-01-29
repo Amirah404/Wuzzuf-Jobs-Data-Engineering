@@ -24,4 +24,4 @@ The goal is to scrape, clean, and analyze Data Analyst jobs to find the most in-
 * Communication Skills
 * Excel
 
-![Analysis Chart](Top 15 Most.png)
+![Analysis Chart](Top%2015%20Most.png)
